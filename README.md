@@ -33,7 +33,7 @@ This UI template showcases practice sections, content layout, and responsive des
 ---
 
 ## 📸 Screenshot
-Add screenshot of homepage here
+![English Janala Screenshot](https://github.com/sumaiya7-ops/English-Janala/blob/main/assets/screenshot.png)
 
 ---
 
