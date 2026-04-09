@@ -7,8 +7,8 @@
 # 🌐 English Janala
 
 A responsive English learning UI website designed for beginners and learners.
+🔗 Live Demo: [Click Here](https://sumaiya7-ops.github.io/English-Janala/)
 
-🔗 Live Demo: [Click Here](https://sumaiya7-ops.github.io/The-Plant-Kingdom/)
 
 ---
 
