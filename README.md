@@ -1,7 +1,5 @@
 
----
 
-# 3️⃣ **Pinned Project 2 – English Janala**
 
 ```md
 # 🌐 English Janala
