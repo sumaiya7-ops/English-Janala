@@ -1,12 +1,18 @@
+
+---
+
+# 3️⃣ **Pinned Project 2 – English Janala**
+
+```md
 # 🌐 English Janala
 
 A responsive English learning UI website designed for beginners and learners.
 
-🔗 **Live Preview:** (Add your live link from Netlify / Vercel / GitHub Pages)
+🔗 Live Demo: Add your deployed link here
 
 ---
 
-## 📌 Project Overview
+## 📖 Project Overview
 English Janala is a static frontend web page focused on providing a clean and user-friendly interface for English language learners.  
 This UI template showcases practice sections, content layout, and responsive design skills.
 
@@ -14,37 +20,33 @@ This UI template showcases practice sections, content layout, and responsive des
 
 ## 🛠️ Tech Stack
 - HTML  
-- CSS / Tailwind CSS (if used)  
-- Responsive design techniques  
-
----
-
-## 📸 Screenshot
-![English Janala Screenshot](link-to-your-screenshot)
+- CSS / Tailwind CSS  
+- Responsive design
 
 ---
 
 ## 🚀 Features
-- 📱 Fully responsive layout  
-- 🧠 Clean UI for language learning sections  
-- 🖼️ Structured content blocks  
-- 🛠️ Built using semantic HTML & modern CSS  
+- Fully responsive layout  
+- Clean UI for language learning sections  
+- Structured content blocks  
+
+---
+
+## 📸 Screenshot
+Add screenshot of homepage here
 
 ---
 
 ## 📁 How to Use
-1. Clone or download the repo  
-2. Open the `index.html` file in your browser  
-3. Or use the **Live Preview** link above  
+Open `index.html` in browser or use Live Preview link
 
 ---
 
 ## ✨ What You Learned
 - Practiced responsive layout design  
 - Improved HTML/CSS structuring skills  
-- Built a UI component-based page  
+- Built a UI component-based page
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: [Sumaiya](https://linkedin.com/in/sumaiya-sorhad)
+* Developed with ❤️ by [Sumaiya](https://www.linkedin.com/in/sumaiya-sorhad)
